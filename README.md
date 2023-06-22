@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![code-coding-programming-simple-background-wallpaper-preview](https://github.com/ykdojo/kaguya/assets/97535699/ebee161a-9a86-4560-89ca-8cf6f3e820b3)
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
