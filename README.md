@@ -112,7 +112,7 @@
 
 ## ☕ Let's Connect!
 
-- 📧 **Email:** [deveshvats100@gmail.com](mailto:deveshvats100@gmail.com)  
+- 📧 **Email:** [deveshvats100@gmail.com](mailto:vatsdevesh100@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/devesh-vats)  
 - 💻 [GitHub](https://github.com/Devesh21cs1007)
 
